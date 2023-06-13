@@ -1,0 +1,4 @@
+﻿/*Cambia logo defs swagger*/
+.topbar-wrapper img {
+    content: url('../images/NET_Core_Logo.png');
+}
