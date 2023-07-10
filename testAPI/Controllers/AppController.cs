@@ -10,6 +10,7 @@ namespace testAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [ApiExplorerSettings(IgnoreApi = true)]
     public class AppController : ControllerBase
     {
         
